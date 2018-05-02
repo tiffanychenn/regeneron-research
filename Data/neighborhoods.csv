@@ -1,0 +1,191 @@
+NEIGHBORHOOD,GENTRIFICATION_ID
+BATHGATE                 ,1
+BAYCHESTER               ,0
+BEDFORD PARK/NORWOOD     ,
+BELMONT                  ,1
+BRONX PARK               ,1
+BRONXDALE                ,1
+CASTLE HILL/UNIONPORT    ,
+CITY ISLAND              ,0
+CO-OP CITY               ,0
+COUNTRY CLUB             ,0
+CROTONA PARK             ,1
+EAST TREMONT             ,1
+FIELDSTON                ,0
+FORDHAM                  ,2
+HIGHBRIDGE/MORRIS HEIGHTS,2
+HUNTS POINT              ,1
+KINGSBRIDGE HTS/UNIV HTS ,2
+KINGSBRIDGE/JEROME PARK  ,0
+MELROSE/CONCOURSE        ,1
+MORRIS PARK/VAN NEST     ,0
+MORRISANIA/LONGWOOD      ,1
+MOTT HAVEN/PORT MORRIS   ,1
+MOUNT HOPE/MOUNT EDEN    ,2
+PARKCHESTER              ,2
+PELHAM PARKWAY NORTH     ,0
+PELHAM PARKWAY SOUTH     ,0
+RIVERDALE                ,0
+SCHUYLERVILLE/PELHAM BAY ,0
+SOUNDVIEW                ,2
+THROGS NECK              ,0
+VAN CORTLANDT PARK       ,0
+WAKEFIELD                ,0
+WESTCHESTER              ,0
+WILLIAMSBRIDGE           ,0
+WOODLAWN                 ,0
+BATH BEACH               ,2
+BAY RIDGE                ,0
+BEDFORD STUYVESANT       ,1
+BENSONHURST              ,2
+BERGEN BEACH             ,0
+BOERUM HILL              ,0
+BOROUGH PARK             ,0
+BRIGHTON BEACH           ,2
+BROOKLYN HEIGHTS         ,0
+BROWNSVILLE              ,1
+BUSH TERMINAL            ,1
+BUSHWICK                 ,1
+CANARSIE                 ,0
+CARROLL GARDENS          ,0
+CLINTON HILL             ,0
+COBBLE HILL              ,0
+COBBLE HILL-WEST         ,0
+CONEY ISLAND             ,2
+CROWN HEIGHTS            ,1
+CYPRESS HILLS            ,2
+DOWNTOWN-FULTON FERRY    ,0
+DOWNTOWN-FULTON MALL     ,0
+DOWNTOWN-METROTECH       ,0
+DYKER HEIGHTS            ,0
+EAST NEW YORK            ,2
+FLATBUSH-CENTRAL         ,1
+FLATBUSH-EAST            ,1
+FLATBUSH-LEFFERTS GARDEN ,1
+FLATBUSH-NORTH           ,1
+FLATLANDS                ,0
+FORT GREENE              ,0
+GERRITSEN BEACH          ,0
+GOWANUS                  ,0
+GRAVESEND                ,2
+GREENPOINT               ,1
+KENSINGTON               ,0
+MADISON                  ,0
+MANHATTAN BEACH          ,0
+MARINE PARK              ,0
+MIDWOOD                  ,0
+MILL BASIN               ,0
+NAVY YARD                ,0
+OCEAN HILL               ,1
+OCEAN PARKWAY-NORTH      ,0
+OCEAN PARKWAY-SOUTH      ,0
+OLD MILL BASIN           ,0
+PARK SLOPE               ,0
+PARK SLOPE SOUTH         ,0
+PROSPECT HEIGHTS         ,0
+RED HOOK                 ,0
+SEAGATE                  ,2
+SHEEPSHEAD BAY           ,0
+SPRING CREEK             ,2
+SUNSET PARK              ,1
+WILLIAMSBURG-CENTRAL     ,1
+WILLIAMSBURG-EAST        ,1
+WILLIAMSBURG-NORTH       ,1
+WILLIAMSBURG-SOUTH       ,1
+WINDSOR TERRACE          ,0
+WYCKOFF HEIGHTS          ,1
+ALPHABET CITY            ,1
+CHELSEA                  ,0
+CHINATOWN                ,1
+CIVIC CENTER             ,0
+CLINTON                  ,0
+EAST VILLAGE             ,1
+FASHION                  ,0
+FINANCIAL                ,0
+FLATIRON                 ,0
+GRAMERCY                 ,0
+GREENWICH VILLAGE-CENTRAL,0
+GREENWICH VILLAGE-WEST   ,0
+HARLEM-CENTRAL           ,1
+HARLEM-EAST              ,1
+HARLEM-UPPER             ,1
+HARLEM-WEST              ,1
+INWOOD                   ,1
+JAVITS CENTER            ,0
+KIPS BAY                 ,0
+LITTLE ITALY             ,1
+LOWER EAST SIDE          ,1
+MANHATTAN VALLEY         ,1
+MIDTOWN CBD              ,0
+MIDTOWN EAST             ,0
+MIDTOWN WEST             ,0
+MORNINGSIDE HEIGHTS      ,1
+MURRAY HILL              ,0
+SOHO                     ,0
+SOUTHBRIDGE              ,0
+TRIBECA                  ,0
+UPPER EAST SIDE (59-79)  ,0
+UPPER EAST SIDE (79-96)  ,0
+UPPER WEST SIDE (59-79)  ,0
+UPPER WEST SIDE (79-96)  ,0
+WASHINGTON HEIGHTS LOWER ,1
+WASHINGTON HEIGHTS UPPER ,1
+AIRPORT JFK              ,0
+AIRPORT LA GUARDIA       ,0
+ARVERNE                  ,0
+ASTORIA                  ,1
+BAYSIDE                  ,0
+BEECHHURST               ,0
+BELLE HARBOR             ,0
+BELLEROSE                ,0
+BRIARWOOD                ,0
+BROAD CHANNEL            ,0
+CAMBRIA HEIGHTS          ,0
+COLLEGE POINT            ,0
+CORONA                   ,0
+DOUGLASTON               ,0
+EAST ELMHURST            ,0
+ELMHURST                 ,0
+FAR ROCKAWAY             ,0
+FLORAL PARK              ,0
+FLUSHING MEADOW PARK     ,0
+FLUSHING-NORTH           ,0
+FLUSHING-SOUTH           ,0
+FOREST HILLS             ,0
+FRESH MEADOWS            ,0
+GLEN OAKS                ,0
+GLENDALE                 ,0
+HAMMELS                  ,0
+HILLCREST                ,0
+HOLLIS                   ,0
+HOLLIS HILLS             ,0
+HOLLISWOOD               ,0
+HOWARD BEACH             ,0
+JACKSON HEIGHTS          ,0
+JAMAICA                  ,0
+JAMAICA ESTATES          ,0
+JAMAICA HILLS            ,0
+KEW GARDENS              ,0
+LAURELTON                ,0
+LITTLE NECK              ,0
+LONG ISLAND CITY         ,0
+MASPETH                  ,0
+MIDDLE VILLAGE           ,0
+NEPONSIT                 ,0
+OAKLAND GARDENS          ,0
+OZONE PARK               ,0
+QUEENS VILLAGE           ,0
+REGO PARK                ,0
+RICHMOND HILL            ,0
+RIDGEWOOD                ,0
+ROCKAWAY PARK            ,0
+ROSEDALE                 ,0
+SO. JAMAICA-BAISLEY PARK ,0
+SOUTH JAMAICA            ,0
+SOUTH OZONE PARK         ,0
+SPRINGFIELD GARDENS      ,0
+ST. ALBANS               ,0
+SUNNYSIDE                ,0
+WHITESTONE               ,0
+WOODHAVEN                ,0
+WOODSIDE                 ,0
